@@ -1,3 +1,5 @@
+#mutable
+
 details=["Sudha",29,8.25]
 
 print(details,type(details))
