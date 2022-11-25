@@ -12,5 +12,5 @@ print(mylist)
 
 name="sudhaverma"
 mylist=[i for i in name]
-print(mylist)   
+print(mylist)
 
