@@ -3,3 +3,9 @@ def hello():
     return "Hello, World!"
 
 print(hello())
+
+def test_hello():
+    assert hello() == "Hello, World!"
+
+test_hello()
+print("Test passed")
